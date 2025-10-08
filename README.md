@@ -27,7 +27,7 @@
 <h3 align="left">Tecnologías</h3>
 
 ###
-![GitLab](https://img.shields.io/badge/-gitlab-000?&logo=gitlab)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 
 
 
