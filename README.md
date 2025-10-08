@@ -24,6 +24,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
+<h3 align="left">Tecnologías</h3>
+
+###
+![GitLab](https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab)
+
+
 
 <h3 align="left">Contáctame En:</h3>
 <a href="mailto:diyae.ahdadou06@gmail.com" target="_blank">
