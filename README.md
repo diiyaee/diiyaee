@@ -1,8 +1,8 @@
-<h2 align="left">Hola, Soy Diyae</h2>
+<h2 align="left">Hola, Soy Diyae 👋</h2>
 
 ###
 
-<p align="left">Soy un estudiante de segundo de DAM apasionado de los videojuegos y con mucha ambición.</p>
+<p align="left">Soy un desarrollador de software finalizando mi segundo año de DAM, apasionado de los videojuegos y con mucha ambición. Me especializo en el desarrollo Full-Stack y en la creación de aplicaciones móviles nativas para Android.</p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=kotlin)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=c%23&logoColor=purple)
@@ -24,15 +25,17 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
 
-<h3 align="left">Tecnologías</h3>
+<h3 align="left">Tecnologías y Herramientas</h3>
 
 ###
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=springboot)
+![Spring Security](https://img.shields.io/badge/-Spring%20Security-000?&logo=springsecurity)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=androidstudio)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?&logo=android)
 ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-000?&logo=thymeleaf)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)
-
-
+![Maven](https://img.shields.io/badge/-Maven-000?&logo=apachemaven)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=gitlab)
 
 <h3 align="left">Contáctame En:</h3>
 <a href="mailto:diyae.ahdadou06@gmail.com" target="_blank">
